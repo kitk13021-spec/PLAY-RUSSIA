@@ -23,6 +23,14 @@
       "online": 0,
       "maxonline": 100
     }
+    {
+      "name": "PLAY RUSSIA #2",
+      "ip": "185.207.214.14",
+      "port": 1841,
+      "x2": true,
+      "online": 0,
+      "maxonline": 100
+    }
   ],
 
   "news": [
