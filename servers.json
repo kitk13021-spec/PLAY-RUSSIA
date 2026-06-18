@@ -1,18 +1,18 @@
 [
     {
       "color": "008B8B",
-      "maxonline": 1000,
-      "name": "Azure Mobile #1",
-      "online": 59,
+      "maxonline": 100,
+      "name": "01 | Apex",
+      "online": 2424,
       "recommend": true,
-      "host": "5.39.108.48",
-      "port": 1273,
+      "host": "185.207.214.14",
+      "port": 1842,
       "id": 1
     },
     {
       "color": "808080",
-      "maxonline": 1000,
-      "name": "test",
+      "maxonline": 0,
+      "name": "02 | Prime",
       "online": 0,
       "recommend": false,
       "host": "5.39.108.48",
