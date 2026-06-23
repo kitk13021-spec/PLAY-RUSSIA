@@ -1,22 +1,20 @@
-[
+{
+  "servers": [
     {
-      "color": "008B8B",
-      "maxonline": 100,
-      "name": "01 | Apex",
-      "online": 2424,
-      "recommend": true,
-      "host": "185.207.214.14",
-      "port": 1842,
-      "id": 1
+      "name": "🇦🇷 Argentina 1",
+      "address": "186.22.245.3",
+      "port": 1194,
+      "protocol": "udp",
+      "country": "Argentina",
+      "configFile": "186.22.245.3.ovpn"
     },
     {
-      "color": "808080",
-      "maxonline": 0,
-      "name": "02 | Prime",
-      "online": 0,
-      "recommend": false,
-      "host": "5.39.108.48",
-      "port": 1653,
-      "id": 4
+      "name": "🇦🇷 Argentina 2",
+      "address": "152.168.40.207",
+      "port": 1194,
+      "protocol": "udp",
+      "country": "Argentina",
+      "configFile": "152.168.40.207.ovpn"
     }
-]
+  ]
+}
