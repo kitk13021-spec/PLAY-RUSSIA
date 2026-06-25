@@ -5,52 +5,54 @@
 
   "urls": {
     "cdn": "https://6942f009858f5.xvest5.ru/brilliant-cdn/",
-    "donate": "https://t.me/PlayRussia01",
-    "forum": "https://t.me/PlayRussia01",
-    "support": "https://t.me/PlayRussia01",
-    "telegram": "https://t.me/PlayRussia01",
-    "vk": "https://vk.ru/club232582700",
+    "Пожертвовать": "t.me/PlayRussia_dev",
+    "форум": "t.me/PlayRussia_dev",
+    "поддержка": "t.me/PlayRussia_dev",
+    "Телеграмма": "t.me/PlayRussia_dev",
+    "vk": "t.me/PlayRussia_dev",
     "discord": "https://discord.gg/RJqZzYmNH",
-    "privacy": "https://t.me/PlayRussia01"
+    "конфиденциальность": "t.me/PlayRussia_dev"
   },
 
-  "servers": [
+  "серверы": [
     {
-      "name": "01 | Apex",
+      "имя": "01 | Apex",
       "ip": "185.207.214.14",
-      "port": 1842,
+      "порт": 1842,
       "x2": true,
-      "online": 0,
+      "онлайн": 0,
       "maxonline": 100
     },
     {
-      "name": "02 | Prime",
+      "имя": "02 | Прайм",
       "ip": "188.127.241.74",
-      "port": 2014,
+      "порт": 1111,
       "x2": true,
-      "online": 0,
+      "онлайн": 0,
       "maxonline": 100
     }
   ],
 
-  "news": [
+  "новости": [
     {
-      "title": "ОТКРЫТИЕ 2.0.5!",
+      "title": "ОТКРЫТИЕ!",
       "image": "https://www.dropbox.com/scl/fi/4anrt73i0n4417dx0fsdt/news.png?rlkey=6prw64ahfwswie8caj9xzucex&st=807f3uhw&dl=1",
-      "text": "залетай и вводи промо START",
-      "date": "2026-06-05"
+      "text": "залетай и вводи промо СТАРТ",
+      "дата": "2026-06-05"
     }
   ],
 
   "cache": {
     "enabled": true,
-    "api_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/api.json",
-    "files_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/files"
+    "zip_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/cache.zip",
+    "zip_sha256": "44766daa796315b89e2d8cd0b1d3d03e38eb3ebad98e37bcfa0f5bbb29bfc026",
+    "zip_size": 591396864,
+    "version": 1
   },
 
-  "version": {
-    "code": 612622272,
-    "name": "1.0.0",
+  "версия": {
+    "код": 612622272,
+    "имя": "1.0.0",
     "apk_url": ""
   }
 }
