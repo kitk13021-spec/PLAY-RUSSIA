@@ -1,44 +1,38 @@
 {
-  "project_name": "PLAY RUSSIA",
+  "project_name": "Play Russia",
   "logo_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/logo.png",
   "background_url": "",
 
   "urls": {
     "cdn": "https://6942f009858f5.xvest5.ru/brilliant-cdn/",
-    "Пожертвовать": "t.me/PlayRussia_dev",
-    "форум": "t.me/PlayRussia_dev",
-    "поддержка": "t.me/PlayRussia_dev",
-    "Телеграмма": "t.me/PlayRussia_dev",
-    "vk": "t.me/PlayRussia_dev",
-    "discord": "https://discord.gg/RJqZzYmNH",
-    "конфиденциальность": "t.me/PlayRussia_dev"
+    "donate": "https://t.me/+1e1Gie_WTdU5YjFi",
+    "forum": "https://t.me/+1e1Gie_WTdU5YjFi",
+    "support": "https://t.me/+1e1Gie_WTdU5YjFi",
+    "telegram": "https://t.me/+1e1Gie_WTdU5YjFi",
+    "vk": "https://t.me/+1e1Gie_WTdU5YjFi",
+    "discord": "https://t.me/+1e1Gie_WTdU5YjFi",
+    "privacy": "https://t.me/+1e1Gie_WTdU5YjFi"
   },
 
-  "серверы": [
+  "servers": [
     {
-      "имя": "01 | Apex",
+      "name": "01 | Apex",
       "ip": "185.207.214.14",
-      "порт": 1842,
-      "x2": true,
-      "онлайн": 0,
-      "maxonline": 100
-    },
-    {
-      "имя": "02 | Прайм",
-      "ip": "188.127.241.74",
-      "порт": 1111,
-      "x2": true,
-      "онлайн": 0,
-      "maxonline": 100
+      "port": 1845,
+      "x2": false,
+      "online": 0,
+      "maxonline": 100,
+      "status": "online",
+      "color": "4CAF50"
     }
   ],
 
-  "новости": [
+  "news": [
     {
-      "title": "ОТКРЫТИЕ!",
-      "image": "https://www.dropbox.com/scl/fi/4anrt73i0n4417dx0fsdt/news.png?rlkey=6prw64ahfwswie8caj9xzucex&st=807f3uhw&dl=1",
-      "text": "залетай и вводи промо СТАРТ",
-      "дата": "2026-06-05"
+      "title": "Добро пожаловать!",
+      "image": "https://sun9-78.userapi.com/s/v1/if2/TddwVQcqIBcXEqSpo_8jkE37rLxQWZlCjIR0c_hLlbFc7KgR1j9TnD6n5a0UJrHpP1SI-gx-QUgiDhUaxEUKV2vX.jpg?quality=96&as=32x15,48x22,72x33,108x50,160x74,240x111,360x166,480x222,540x249,640x295,720x332,1080x498,1280x591,1440x665,2340x1080&from=bu&cs=2340x0",
+      "text": "Добро пожаловать на Brilliant RP!",
+      "date": "2026-06-05"
     }
   ],
 
@@ -50,9 +44,9 @@
     "version": 1
   },
 
-  "версия": {
-    "код": 612622272,
-    "имя": "1.0.0",
+  "version": {
+    "code": 612622272,
+    "name": "1.0.0",
     "apk_url": ""
   }
 }
