@@ -5,18 +5,18 @@
 
   "urls": {
     "cdn": "https://6942f009858f5.xvest5.ru/brilliant-cdn/",
-    "donate": "https://t.me/+1e1Gie_WTdU5YjFi",
-    "forum": "https://t.me/+1e1Gie_WTdU5YjFi",
-    "support": "https://t.me/+1e1Gie_WTdU5YjFi",
-    "telegram": "https://t.me/+1e1Gie_WTdU5YjFi",
-    "vk": "https://t.me/+1e1Gie_WTdU5YjFi",
-    "discord": "https://t.me/+1e1Gie_WTdU5YjFi",
-    "privacy": "https://t.me/+1e1Gie_WTdU5YjFi"
+    "donate": "https://t.me/PlayRussia_dev",
+    "forum": "https://t.me/PlayRussia_dev",
+    "support": "https://t.me/PlayRussia_dev",
+    "telegram": "https://t.me/PlayRussia_dev",
+    "vk": "https://t.me/PlayRussia_dev",
+    "discord": "https://t.me/PlayRussia_dev",
+    "privacy": "https://t.me/PlayRussia_dev"
   },
 
   "servers": [
     {
-      "name": "01 | Apex",
+      "name": "01 | PRIME",
       "ip": "185.207.214.14",
       "port": 1842,
       "x2": false,
