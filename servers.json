@@ -1,20 +1,22 @@
-{
-  "servers": [
+[
     {
-      "name": "🇦🇷 Argentina 1",
-      "address": "186.22.245.3",
-      "port": 1194,
-      "protocol": "udp",
-      "country": "Argentina",
-      "configFile": "186.22.245.3.ovpn"
+      "color": "008B8B",
+      "maxonline": 1000,
+      "name": "Azure Mobile #1",
+      "online": 59,
+      "recommend": true,
+      "host": "185.207.214.14",
+      "port": 1842,
+      "id": 1
     },
     {
-      "name": "🇦🇷 Argentina 2",
-      "address": "152.168.40.207",
-      "port": 1194,
-      "protocol": "udp",
-      "country": "Argentina",
-      "configFile": "152.168.40.207.ovpn"
+      "color": "808080",
+      "maxonline": 1000,
+      "name": "test",
+      "online": 0,
+      "recommend": false,
+      "host": "185.207.214.14",
+      "port": 1842,
+      "id": 4
     }
-  ]
-}
+]
