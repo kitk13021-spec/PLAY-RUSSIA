@@ -9,7 +9,7 @@
     "forum": "https://t.me/PlayRussia_dev",
     "support": "https://t.me/PlayRussia_dev",
     "telegram": "https://t.me/PlayRussia_dev",
-    "vk": "https://t.me/PlayRussia_dev",
+    "vk": "https://vk.ru/im/channels/-239839484",
     "discord": "https://t.me/PlayRussia_dev",
     "privacy": "https://t.me/PlayRussia_dev"
   },
@@ -38,7 +38,7 @@
 
   "cache": {
     "enabled": true,
-    "zip_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/cache.zip",
+    "zip_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/cache.zi",
     "zip_sha256": "44766daa796315b89e2d8cd0b1d3d03e38eb3ebad98e37bcfa0f5bbb29bfc026",
     "zip_size": 591396864,
     "version": 1
