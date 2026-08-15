@@ -38,7 +38,7 @@
 
   "cache": {
     "enabled": true,
-    "zip_url": "https://dev-volt.csamp.ru/game.zip",
+    "zip_url": "https://dev-volt.csamp.ru/cache.zip",
     "zip_sha256": "44766daa796315b89e2d8cd0b1d3d03e38eb3ebad98e37bcfa0f5bbb29bfc026",
     "zip_size": 591396864,
     "version": 1
