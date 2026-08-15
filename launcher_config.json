@@ -16,7 +16,7 @@
 
   "servers": [
     {
-      "name": "01 | PRIME",
+      "name": "01",
       "ip": "185.207.214.14",
       "port": 1842,
       "x2": false,
