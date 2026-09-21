@@ -24,6 +24,16 @@
       "maxonline": 100,
       "status": "online",
       "color": "2882d3"
+    },
+    {
+      "name": "01 | Мечта",
+      "ip": "s2.hr-rp.ru",
+      "port": 7772,
+      "x2": false,
+      "online": 0,
+      "maxonline": 100,
+      "status": "online",
+      "color": "2882d3"
     }
   ],
 
